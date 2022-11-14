@@ -42,7 +42,7 @@ Try it will be Fun!!
 **5.** Set upstream command:
 
 ```bash
-git remote add upstream https://github.com/Susmita-Dey/Google-Homepage-Clone-With-HTML-CSS.git
+git remote add upstream https://github.com/Susmita-Dey/Contribute-To-This-Project-First.git
 ```
 
 **6.** Make a new branch. Your username would make a good branch because it's unique.
